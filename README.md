@@ -34,8 +34,11 @@
 <a href="https://learndatabydoing.substack.com/publish/home" target="blank">
 <img src="https://github.com/fvgm-spec/fvgm-spec/blob/main/img/Substack_logo.png" style="height: 3rem; background-color:white"/>
 </a>
+<a href="https://dev.to/dashboard" target="blank">
+<img src="https://github.com/fvgm-spec/fvgm-spec/blob/main/img/dev-black.png" style="height: 3rem; background-color:white"/>
+</a>
 
-
+</div>
 
 <!-- Tech Stack --> 
 
