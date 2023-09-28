@@ -42,7 +42,7 @@
 <p align="center">
 <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> </a>
 <a href="https://tr.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws"  style="height: 3rem"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/fvgm-spec/fvgm-spec/blob/main/img/aws.png" alt="aws"  style="height: 3rem"/> </a>
 <a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/postgreesql.png" alt="postgresql"  style="height: 3rem"/> </a>
