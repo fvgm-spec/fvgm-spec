@@ -47,3 +47,9 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/postgreesql.png" alt="postgresql"  style="height: 3rem"/> </a>
 <a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt"  style="height: 3rem"/> </a>
+
+<!-- Certifications --> 
+
+<h3 align="Center">Certifications:</h3>  
+<p align="center">
+<a href="https://www.credly.com/badges/b8e9f7cb-12ff-4be6-829a-bf2a63660f0f/public_url" target="_blank"> <img src="https://github.com/fvgm-spec/fvgm-spec/blob/main/img/AWS-CLF-C01_badge.png" alt="AWS Certified Cloud Practitioner"  style="height: 3rem"/> </a>
