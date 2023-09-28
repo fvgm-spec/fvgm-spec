@@ -1,6 +1,6 @@
 <!-- Intro -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hey+my+name+is+Felix+Gutierrez;I'm+a+father,+husband,+and+coder;Working+as+a+Freelance+from+Uruguay;Data+Engineer+and+Technical+Writer!;Get+to+know+more+about+me...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hey+my+name+is+Felix+Gutierrez;I'm+a+father,+husband,+and+coder;Data+Engineer+and+Technical+Writer!;Working+as+a+Freelance+from+Uruguay;Get+to+know+more+about+me...)](https://git.io/typing-svg)
 
 <!--<h3 align="center">Hi! I'm Felix</h3>-->
 <!--<h3 align="center">Data Engineer</h3>-->
