@@ -25,7 +25,7 @@
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
 </a>
 <a href="https://medium.com/@felixvidalgu" target="blank">
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" style="height: 3rem; background-color:white"/>
+<img src="https://github.com/fvgm-spec/fvgm-spec/blob/main/img/medium.png" style="height: 3rem; background-color:white"/>
 </a>
 <a href="https://learndatabydoing.substack.com/publish/home" target="blank">
 <img src="https://github.com/fvgm-spec/fvgm-spec/blob/main/img/Substack_logo.png" style="height: 3rem; background-color:white"/>
