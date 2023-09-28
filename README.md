@@ -59,3 +59,8 @@
 <h3 align="Center">Volunteering:</h3>  
 <p align="center">
 <a href="https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23data&awsf.location=location%23latam&awsf.year=*all&awsm.page-cb-cards=1" target="_blank"> <img src="https://github.com/fvgm-spec/fvgm-spec/blob/main/img/aws-community-builder-logo.png" alt="AWS Community Builder"  style="height: 5rem"/> </a>
+<h3 align="center">For more details review AWS Community Builders Directory in the category of Data</h3>  
+<div align="center">
+<a href="https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23data&awsf.location=location%23latam&awsf.year=year%232022" target="blank">
+<img src="https://github.com/fvgm-spec/fvgm-spec/blob/main/img/aws-community-builders-directory.png" style="height: 5rem"/>
+</a>
