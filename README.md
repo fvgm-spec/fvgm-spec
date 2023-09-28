@@ -1,15 +1,11 @@
 <!-- Intro -->
 
-<!--<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I+am+Felix+👋;I+am+a+Data+Engineer+and+Tech+Writer"></a>
-</p>-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hey+my+name+is+Felix+Gutierrez;I'm+a+father+husband+and+coder;Working+as+a+Freelance+from+Uruguay;Data+Practitioner+Engineer;Data+Engineer;Technical+Writer;and+Data+Researcher!;Get+to+know+more+about+me+and+the+technologies+I+use...)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Data+Practitioner+Engineer;Data+Engineer;Technical+Writer;and+Data+Researcher!;Get+to+know+more+about+me...)](https://git.io/typing-svg)
-
-<h3 align="center">Hi! I'm Felix</h3>
-<h3 align="center">Data Engineer</h3>
-
-<h3 align="center">About Me :</h3>  
+<!--<h3 align="center">Hi! I'm Felix</h3>-->
+<!--<h3 align="center">Data Engineer</h3>-->
+<!--<h3 align="center">About Me :</h3>-->
+ 
  <p>
 <div align="center">
 <br>  Working as a freelance Data Engineer.
