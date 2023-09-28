@@ -52,4 +52,4 @@
 
 <h3 align="Center">Certifications:</h3>  
 <p align="center">
-<a href="https://www.credly.com/badges/b8e9f7cb-12ff-4be6-829a-bf2a63660f0f/public_url" target="_blank"> <img src="https://github.com/fvgm-spec/fvgm-spec/blob/main/img/AWS-CLF-C01_badge.png" alt="AWS Certified Cloud Practitioner"  style="height: 3rem"/> </a>
+<a href="https://www.credly.com/badges/b8e9f7cb-12ff-4be6-829a-bf2a63660f0f/public_url" target="_blank"> <img src="https://github.com/fvgm-spec/fvgm-spec/blob/main/img/AWS-CLF-C01_badge.png" alt="AWS Certified Cloud Practitioner"  style="height: 5rem"/> </a>
